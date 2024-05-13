@@ -7,3 +7,6 @@ Histórico de despesas por usuário ou grupo;
 Acompanhamento de parcelas de cartão de crédito;
 Visualização de dados;
 Operações CRUD: Os usuários podem editar ou excluir registros de despesas existentes.
+
+
+*Esse é um esboço do projeto que tem como finalidade servir de ferramenta de aprendizado no framework Flet do Python e na administração de bancos de dados com a linguagem SQL e o DBMS PostgreSQL.
