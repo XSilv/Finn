@@ -9,4 +9,4 @@ Visualização de dados;
 Operações CRUD: Os usuários podem editar ou excluir registros de despesas existentes.
 
 
-*Esse é um esboço do projeto que tem como finalidade servir de ferramenta de aprendizado no framework Flet do Python e na administração de bancos de dados com a linguagem SQL e o DBMS PostgreSQL.
+*Esse é um esboço do meu primeiro projeto em desenvolvimento de sistemas. Tem como finalidade servir de ferramenta de aprendizado no framework Flet do Python e na administração de bancos de dados com a linguagem SQL e o DBMS PostgreSQL.
